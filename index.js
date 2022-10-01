@@ -51,7 +51,7 @@ class FlowFieldEffect {
       this.width,
       this.height
     );
-    this.gradient.addColorStop("0.1", "#A7F432");
+    this.gradient.addColorStop("0.1", "blue");
     this.gradient.addColorStop("0.2", "	#FFF700");
     this.gradient.addColorStop("0.5", "#FF007F");
     this.gradient.addColorStop("0.7", "#1974D2");
