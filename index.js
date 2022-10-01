@@ -33,7 +33,7 @@ class FlowFieldEffect {
     this.radius = 5;
     this.vr = 0.004;
     this.oldTimeStamp = 0;
-    this.interval = 100;
+    this.interval = 16;
     this.counter = 0;
   }
 
